@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CyberSuit**
 
-- 🌱 I’m currently learning **React, Django ,C++**
+- 🌱 I’m currently learning **React,C++**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
