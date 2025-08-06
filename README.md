@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlpZzFqZzR4d25yZ3RocGZkcXFsc2ZtN2Q3cWJjN3JtYjUyb2QxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div>
 
 <h1 align="center">
 Hi there, I'm Roshan Saini 👋
