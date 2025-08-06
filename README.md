@@ -92,7 +92,7 @@ I love building things for the web and am always eager to **learn new technologi
 ## 🔗 Connect with me
 
 <p align="left">
-<a href="[https://linkedin.com/in/roshansaini18](https://github.com/roshansaini18/roshansaini18)" target="_blank">
+<a href="https://github.com/roshansaini18/roshansaini18" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://twitter.com/roshansaini18" target="_blank">
